@@ -1,3 +1,9 @@
+# Tower Defense
+
+Just using react to make a simple tower defense board for hacking game ideas.
+
+run using `bun` with `bun dev` or probably `vite`
+
 # React with Bun runtime
 
 This is a React project bootstrapped with [bun](https://bun.sh/).
